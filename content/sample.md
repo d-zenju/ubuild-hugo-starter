@@ -17,5 +17,9 @@ template = "content-feature"
 [page_sections.media]
 alt_text = ""
 image = ""
+[[page_sections]]
+block = "header-3"
+logo = "/uploads/2018/06/21/drone-photo.jpeg"
+template = "simple-header"
 
 +++
